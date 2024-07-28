@@ -1,11 +1,9 @@
 # Project Work MGT001437
 
 By- Group 4 
-              Jitesh Pravin Mhatre (03771319) 
-      
-              Vincent Kellerer (03741768)     
-              
-              Yunchung Ma (03750836)
+              Jitesh Pravin Mhatre (03771319) ;
+              Vincent Kellerer (03741768) ;  
+              Yunchung Ma (03750836).
 
 GitHub Repository Structure:-
 
